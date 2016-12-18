@@ -1,10 +1,9 @@
 # NERClassifier
 
-###############################################################################
-#		Project : Regression NER Classifier
-#
-#		Author : Anthony FARAUT
-###############################################################################
+`###############################################################################`
+##		Project : Regression NER Classifier
+##		Author : Anthony FARAUT
+`###############################################################################`
 
 # Files : 
 	- generate_data.py : Generate and store the data features.
